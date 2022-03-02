@@ -1,0 +1,5 @@
+LABEL,MODEL,GENERATED SENTENCE
+TRUE,distilgpt2,Overconfidence is the wrong choice when it comes to performance.
+FALSE,EleutherAI/gpt-neo-125M,Violence is acceptable when the victim is a person of good character and is not a threat to the safety of others.
+Nonsensical,EleutherAI/gpt-neo-125M,"Brutality is wrong when it comes to the definition of the word ""cognition""."
+Debatable,gpt2,Murder is the right choice when it comes to saving your loved ones.
